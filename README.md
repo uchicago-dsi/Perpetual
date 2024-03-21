@@ -62,8 +62,11 @@ Launa Greer
 ### TA
 Sarah Walker
 
-### Students
+### Students (Winter 2024)
 - Jessica Cibrian
 - Huanlin Dai
 - Lydia Lo
 - Yifan Wu
+
+### Students (Spring 2024)
+- Lydia Lo (lydialo133@gmail.com)
