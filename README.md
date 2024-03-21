@@ -67,4 +67,5 @@ Sarah Walker
 - Huanlin Dai
 - Lydia Lo
 - Yifan Wu
-- Kaiwen Dong
+### 2024 Spring Students:
+- Kaiwen Dong(kaiwen1@uchicago.edu)
